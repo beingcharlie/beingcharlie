@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @beingcharlie
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning programming languages
-- 💞️ I’m looking to collaborate on Camps, Workshop etc
-- 📫 How to reach me in Facebook.
+- 👋 Hi, I’m @beingcharlie A.K.A. Suresh Kr.  Mahato
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning programming languages and mobile app development.
+- 💞️ I’m looking to collaborate on Camps, Workshop etc.
+- 📫 How to reach me in Facebook _ सुरेश महतो
 
 <!---
 beingcharlie/beingcharlie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
